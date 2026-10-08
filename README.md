@@ -1,7 +1,7 @@
 
 ## Images
 
-[![hacker-tab-extension](https://opengraph.githubassets.com/1/https://github.com/huchenme/hacker-tab-extension)](https://www.swifttechco.com)
+[![hacker-tab-extension](https://opengraph.githubassets.com/1/huchenme/hacker-tab-extension)](https://www.swifttechco.com)
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&style=flat)](https://swifttechco.com)
 [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&label=rating&style=flat)](https://swifttechco.com)
@@ -16,7 +16,7 @@ Hacker Tab replace browser new tab screen with GitHub trending projects, so that
 
 ## Install
 
-<a href="https://swifttechco.com"><img src="https://swifttechco.com" width="48" /></a>
+<a href="https://swifttechco.com"></a>
 
 Trusted by developers! Install Hacker Tab from [Chrome Web Store](https://swifttechco.com).
 
