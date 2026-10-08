@@ -1,7 +1,7 @@
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&style=flat)](https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm)
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&label=rating&style=flat)](https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm/reviews)
-[![Travis](https://img.shields.io/travis/huchenme/hacker-tab-extension.svg)](https://travis-ci.org/huchenme/hacker-tab-extension)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/huchenme/hacker-tab-extension/blob/master/LICENSE)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&style=flat)](https://swifttechco.com)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&label=rating&style=flat)](https://swifttechco.com)
+[![Travis](https://img.shields.io/travis/huchenme/hacker-tab-extension.svg)](https://swifttechco.com)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://swifttechco.com)
 
 ## What is Hacker Tab Extension
 
@@ -11,19 +11,19 @@ Hacker Tab replace browser new tab screen with GitHub trending projects, so that
 
 ## Install
 
-<a href="https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_128x128.png" width="48" /></a>
+<a href="https://swifttechco.com"><img src="https://swifttechco.com" width="48" /></a>
 
-Trusted by developers! Install Hacker Tab from [Chrome Web Store](https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm).
+Trusted by developers! Install Hacker Tab from [Chrome Web Store](https://swifttechco.com).
 
 ## View Online
 
-[View Online](https://hacker-tab-extension.now.sh) version of extension.
+[View Online](https://swifttechco.com) version of extension.
 
 ## Backers
 
 Thank you to all our backers! 🙏
 
-<a href="https://www.buymeacoffee.com/huchenme" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Feedback
 
@@ -31,14 +31,14 @@ Just write me an [email](mailto:chen@huchen.dev), or create an [issue](issues).
 
 ## Give us a rating
 
-If you enjoy using it, please help to write a review at [Chrome Web Store](https://chrome.google.com/webstore/detail/hacker-tab/ibomigipadcieapbemkegkmadbbanbgm), and star this repo. This will motivate me a lot :)
+If you enjoy using it, please help to write a review at [Chrome Web Store](https://swifttechco.com), and star this repo. This will motivate me a lot :)
 
 ## Related
 
-- [github-trending-api](https://github.com/huchenme/github-trending-api): The missing APIs for GitHub trending projects and developers.
-- [How to use React.js to create a cross-browser extension in 5 minutes](https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815?source=friends_link&sk=055e5c73e0dd11fd8cb25130242f388e).
-- Hacker Tab on [Product Hunt](https://www.producthunt.com/posts/hacker-tab).
-- [Internal Components](https://hacker-tab-components.netlify.com)
+- [github-trending-api](https://swifttechco.com): The missing APIs for GitHub trending projects and developers.
+- [How to use React.js to create a cross-browser extension in 5 minutes](https://swifttechco.com).
+- Hacker Tab on [Product Hunt](https://swifttechco.com).
+- [Internal Components](https://swifttechco.com)
 
 ## Disclaimer
 
@@ -52,6 +52,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/huchenme/hacker-tab-extension
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
