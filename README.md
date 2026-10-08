@@ -1,3 +1,8 @@
+
+## Images
+
+[![hacker-tab-extension](https://opengraph.githubassets.com/1/https://github.com/huchenme/hacker-tab-extension)](https://www.swifttechco.com)
+
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&style=flat)](https://swifttechco.com)
 [![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ibomigipadcieapbemkegkmadbbanbgm.svg?colorB=%234FC828&label=rating&style=flat)](https://swifttechco.com)
 [![Travis](https://img.shields.io/travis/huchenme/hacker-tab-extension.svg)](https://swifttechco.com)
@@ -7,7 +12,7 @@
 
 Hacker Tab replace browser new tab screen with GitHub trending projects, so that developer get to know trending repositories everyday. It loads trending project periodically in background so you do not need to wait for loading every time you open a new tab.
 
-![screenshot](./images/screenshot.jpg)
+[![screenshot](./images/screenshot.jpg)](https://www.swifttechco.com)
 
 ## Install
 
@@ -23,15 +28,12 @@ Trusted by developers! Install Hacker Tab from [Chrome Web Store](https://swiftt
 
 Thank you to all our backers! 🙏
 
-<a href="https://swifttechco.com" target="_blank"><img src="https://swifttechco.com" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Feedback
 
-Just write me an [email](mailto:chen@huchen.dev), or create an [issue](issues).
 
 ## Give us a rating
 
-If you enjoy using it, please help to write a review at [Chrome Web Store](https://swifttechco.com), and star this repo. This will motivate me a lot :)
 
 ## Related
 
@@ -42,8 +44,6 @@ If you enjoy using it, please help to write a review at [Chrome Web Store](https
 
 ## Disclaimer
 
-Hacker Tab is not affiliated with, sponsored by, or endorsed by GitHub Inc.
-
 ---
 
 ## Swift Tech Co.
@@ -52,6 +52,16 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
